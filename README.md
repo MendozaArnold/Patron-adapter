@@ -1,18 +1,8 @@
-## Getting Started
+## Actividad
+Implementando el patrón Adapter, crea un sistema que maneja tres tipos de zapatos:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- 'Zapato Clásico'
+- 'Zapato deportivo'
+- 'Zapato Especial' (usando un adaptador)
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Además, asegúrese de que cada tipo de zapato siga el proceso de creación de su molde y la fabricación correspondiente, utilizando los métodos adecuados para cada tipo de zapato. El Zapato Especial deberá incluir la creación de un logotipo como parte de su proceso.
